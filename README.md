@@ -93,10 +93,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Team Members
 
-- **Rushika K Shankar**
 - **Spoorthi H R**
-- **Sagar H R**
-- **Rohan D N**
-
-
 ---
